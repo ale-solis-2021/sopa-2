@@ -1,0 +1,22 @@
+1. Diseñar una sopa de letras basada en una tabla de google document o word
+debe tener una tematica y las palabras que van a ir distribuidas en la sopa
+estas estan relacionadas al tema
+
+TEMA: FRUTAS
+
+ASDLKSDFKVACOKASD
+NARANJAS ASSDFEWE
+ASGASSAJHD P KQWS
+ZXLKJLKJAS O ASDS
+XCIOIJWEWS M FERX
+COIIJDASOD E SDFS
+XIXJOAWSOS L SPZZ
+OIJDOFIJEP O IJFH
+
+PALABRAS:
+_NARANJAS
+_POMELO
+
+2. leer los comentarios que estan distribuidos por el codigo entero
+hay se diseñan las sopas de letras y se guarda las palabras para comparar.
+el primer desafio esta echo falta sopa1() y sopa2()
